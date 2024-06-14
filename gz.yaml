@@ -4,5 +4,5 @@ payload:
 - DOMAIN-KEYWORD,subhd,Proxy
 - DOMAIN-KEYWORD,dabai,Proxy
 - DOMAIN-KEYWORD,idope,Proxy
-- DOMAIN-SUFFIX,googleapis.cn,DIRECT
+- DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
