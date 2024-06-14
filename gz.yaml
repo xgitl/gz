@@ -1,6 +1,6 @@
 payload:
-- DOMAIN-KEYWORD,btdig,Proxy
-- DOMAIN-KEYWORD,r3sub,Proxy
-- DOMAIN-KEYWORD,subhd,Proxy
-- DOMAIN-KEYWORD,dabai,Proxy
-- DOMAIN-KEYWORD,idope,Proxy
+  - DOMAIN-KEYWORD,btdig,Proxy
+  - DOMAIN-KEYWORD,r3sub,Proxy
+  - DOMAIN-KEYWORD,subhd,Proxy
+  - DOMAIN-KEYWORD,dabai,Proxy
+  - DOMAIN-KEYWORD,idope,Proxy
