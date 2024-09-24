@@ -10,6 +10,7 @@ payload:
   - DOMAIN-KEYWORD,cacapex,Proxy
   - DOMAIN-KEYWORD,snangua,Proxy
   - DOMAIN-KEYWORD,colacloud,Proxy
+  - DOMAIN-KEYWORD,starnetcn,Proxy
   - DOMAIN-SUFFIX,be,Proxy
   - DOMAIN-SUFFIX,lol,Proxy
   - DOMAIN-SUFFIX,top,Proxy
