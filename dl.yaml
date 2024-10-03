@@ -4,17 +4,17 @@ payload:
   - DOMAIN-KEYWORD,subhd
   - DOMAIN-KEYWORD,idope
   - DOMAIN-KEYWORD,dabai
-  - DOMAIN-KEYWORD,henet,Proxy
-  - DOMAIN-KEYWORD,fyd55o,Proxy
-  - DOMAIN-KEYWORD,taronet,Proxy
-  - DOMAIN-KEYWORD,cacapex,Proxy
-  - DOMAIN-KEYWORD,snangua,Proxy
-  - DOMAIN-KEYWORD,colacloud,Proxy
-  - DOMAIN-KEYWORD,starnetcn,Proxy
-  - DOMAIN-SUFFIX,be,Proxy
-  - DOMAIN-SUFFIX,lol,Proxy
-  - DOMAIN-SUFFIX,top,Proxy
-  - DOMAIN-SUFFIX,xyz,Proxy
-  - DOMAIN-SUFFIX,cyou,Proxy
-  - DOMAIN-SUFFIX,plus,Proxy
-  - DOMAIN-SUFFIX,cloud,Proxy
+  - DOMAIN-KEYWORD,henet
+  - DOMAIN-KEYWORD,fyd55o
+  - DOMAIN-KEYWORD,taronet
+  - DOMAIN-KEYWORD,cacapex
+  - DOMAIN-KEYWORD,snangua,
+  - DOMAIN-KEYWORD,colacloud
+  - DOMAIN-KEYWORD,starnetcn
+  - DOMAIN-SUFFIX,be
+  - DOMAIN-SUFFIX,lol
+  - DOMAIN-SUFFIX,top
+  - DOMAIN-SUFFIX,xyz
+  - DOMAIN-SUFFIX,cyou
+  - DOMAIN-SUFFIX,plus
+  - DOMAIN-SUFFIX,cloud
