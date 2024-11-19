@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,lol
   - DOMAIN-SUFFIX,top
   - DOMAIN-SUFFIX,xyz
+  - DOMAIN-SUFFIX,site
   - DOMAIN-SUFFIX,cyou
   - DOMAIN-SUFFIX,plus
   - DOMAIN-SUFFIX,cloud
