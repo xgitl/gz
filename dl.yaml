@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,gbtgurl
   - DOMAIN-KEYWORD,colacloud
   - DOMAIN-KEYWORD,starnetcn
+  - DOMAIN-SUFFIX,dedyn.io
   - DOMAIN-SUFFIX,be
   - DOMAIN-SUFFIX,lol
   - DOMAIN-SUFFIX,top
