@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,j-s.us.kg
   - DOMAIN-SUFFIX,ballbar.net
   - DOMAIN-SUFFIX,be
+  - DOMAIN-SUFFIX,icu
   - DOMAIN-SUFFIX,lol
   - DOMAIN-SUFFIX,top
   - DOMAIN-SUFFIX,xyz
