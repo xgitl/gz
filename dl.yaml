@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,winscp.net
   - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,services.mozilla.com
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,quad9.net
   - DOMAIN-SUFFIX,be
