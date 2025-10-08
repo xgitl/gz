@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,site
   - DOMAIN-SUFFIX,cyou
   - DOMAIN-SUFFIX,plus
+  - DOMAIN-SUFFIX,buzz
   - DOMAIN-SUFFIX,cloud
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,8.8.8.8/32,no-resolve
