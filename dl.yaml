@@ -13,7 +13,6 @@ payload:
   - DOMAIN-KEYWORD,starnetcn
   - DOMAIN-KEYWORD,dogssr
   - DOMAIN-KEYWORD,gzcloud
-  - DOMAIN-KEYWORD,freebb
   - DOMAIN-SUFFIX,nnpy.org
   - DOMAIN-SUFFIX,wmdy.cc
   - DOMAIN-SUFFIX,mhdy.net
@@ -27,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,phantasy.life
   - DOMAIN-SUFFIX,onesekai.com
   - DOMAIN-SUFFIX,alipaycctv.cn
-  - DOMAIN-SUFFIX,zuodianme.uk
+  - DOMAIN-SUFFIX,xn--dlqr72e.top
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,winscp.net
