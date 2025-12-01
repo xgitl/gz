@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,starnetcn
   - DOMAIN-KEYWORD,dogssr
   - DOMAIN-KEYWORD,gzcloud
+  - DOMAIN-SUFFIX,o0o00o.eu.org
   - DOMAIN-SUFFIX,it.com
   - DOMAIN-SUFFIX,nnpy.org
   - DOMAIN-SUFFIX,wmdy.cc
