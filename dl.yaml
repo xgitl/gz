@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,quad9.net
   - DOMAIN-SUFFIX,be
+  - DOMAIN-SUFFIX,uk
   - DOMAIN-SUFFIX,cfd
   - DOMAIN-SUFFIX,icu
   - DOMAIN-SUFFIX,lol
