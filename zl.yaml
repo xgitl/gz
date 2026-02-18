@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
