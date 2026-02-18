@@ -42,8 +42,6 @@ payload:
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,quad9.net
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,be
   - DOMAIN-SUFFIX,uk
   - DOMAIN-SUFFIX,cfd
