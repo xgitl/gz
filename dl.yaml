@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,starnetcn
   - DOMAIN-KEYWORD,dogssr
   - DOMAIN-KEYWORD,gzcloud
+  - DOMAIN-SUFFIX,nuomi.info
   - DOMAIN-SUFFIX,pavo.eu.org
   - DOMAIN-SUFFIX,shantong.org
   - DOMAIN-SUFFIX,cloudns.org
