@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,quad9.net
+  - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,be
   - DOMAIN-SUFFIX,uk
   - DOMAIN-SUFFIX,vip
